@@ -1,0 +1,3 @@
+[submodule "NFC"]
+	path = NFC
+	url = https://github.com/LO6AN/MC-Addons/NFC
